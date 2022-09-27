@@ -1,2 +1,2 @@
-production:
-  cache_store: redis_store
+development:
+  cache_store: redis_cache_store
